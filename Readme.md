@@ -23,5 +23,5 @@ There are some basic concepts That act as the building blocks of OOPs i.e
 
 > Note: Dedicated code example file is availabe to test(run) on local machine. 
 ### Topics
-- [Class and Objects](/Day-1-Class-Objects/Readme.md)
+- [Class and Objects](Day-1-Class-Objects/Readme.md)
 

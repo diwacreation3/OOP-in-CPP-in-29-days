@@ -11,7 +11,7 @@ The building block of C++ that leads to Object-Oriented programming is a Class. 
 
 ### Here is an simple example of class
 \
-![Class Example!](/images/class-example.png)
+![Class Example!](../images/class-example.png)
 
 On the above example their are two students. They share same properties in college such as Name, age, faculty. They have Same class name Students. let's look at the code 
 > Example:

@@ -219,6 +219,7 @@ int main()
 
     // member function of the derived class can 
     // access the protected data members os the base class
+    
 
     obj.setId(93);
     obj.displayId();

@@ -122,3 +122,41 @@ int main()
 ### can a destructor be virtual
 
 Yes, in fact it is always a good idea to make destructor virtual in the base class when we have a virtual function.
+
+
+
+# Private Destructor in C++
+
+Destructor with the access modifiers as private are known as private destructors. Whenever we want to prevent the destruction of an object, we can make the destructor private.
+
+### What is the use of private destructor ?
+
+Whenever we want tot control the destruction of objects of a class, we make the destructor privat. For dynamically created objects, it may happen that you pass a pointer to the object to a function and the function deletes the object. If tthe object is reffered after the function call the reference will become dangling.
+
+#### Example
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+class parent {
+	// private destructor
+	~parent() { cout << "destructor called" << endl; }
+
+public:
+	parent() { cout << "constructor called" << endl; }
+	void destruct() { delete this; }
+};
+
+int main()
+{
+	parent* p;
+	p = new parent;
+	// destructor called
+	p->destruct();
+
+	return 0;
+}
+
+```

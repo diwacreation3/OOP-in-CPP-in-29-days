@@ -84,4 +84,50 @@ In C++, We can have more than one constructor in a class with same name, as long
 
 - While creating the object, arguments must be passed to let compiler know, which constructor needs to be called. 
 
+```c++
+//C++ program to illustrate 
+// constructor overloading 
+
+
+#include <iostream>
+using namespace std;
+
+class construct{
+    public:
+    float area;
+
+    //Constructor with no parameter 
+    construct()
+    {
+        area = 0;
+    }
+
+    // Constructor with two parameter
+        construct(int a, int b)
+        {
+            area = a * b;
+        }
+
+        void display()
+        {
+            cout << area << endl;
+        }
+};
+
+int main()
+{
+
+// Constructor Overloading
+// with two different constructors
+// of class name
+
+construct o;
+construct o2(3,3);
+
+o.display();
+o2.display();
+
+return 1;
+}
+```
 

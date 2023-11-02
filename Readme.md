@@ -15,6 +15,7 @@ There are some basic concepts That act as the building blocks of OOPs i.e
 1. Dynamic Binding
 1. Message Passing
 
+
 ## Characteristics of an Object-Oriented programming language
 >OOP Concept
 

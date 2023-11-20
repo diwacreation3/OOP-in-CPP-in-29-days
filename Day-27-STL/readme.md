@@ -58,4 +58,15 @@ Containers or container classes store objects and data. Yhere are in total seven
     - multimap
 
 - Unordered Associative Containers: Implement unordered data structures that can be quckly serached 
-    
+    - unordered_set (introduced in C++ 11 )
+    - unordered_multiset (introduced in C++ 11 )
+    - unordered_map (introduced in C++ 11 )
+    - unordered_multimap (introduced in C++ 11 )
+
+
+### 3. Functors
+The STL includes classes that overloaded the function call operator. Instances of such classes are called function objects or functors. Functors allow the working of the associated function to be customized with the help of parameters to be passesd.
+
+### 4. iterators
+As the name suggests, iterators are used for working on a sequence of values. They are the major feature that allow generality in STL.
+

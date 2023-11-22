@@ -4,7 +4,7 @@
 
 - Using namespace you can define the psace or context in which identifiers are defined i.e variable, method, classes, In essence a namespace defined a scope.
 
-### Advantage of namespace to avoid nem Collision
+### Advantage of namespace to avoid name Collision
 
 - Example you might writing some code that has a function called xyz() and there is another library available which is also having same function xyz(). Now the compiler has no way of knowing which version of xyz() function you are referring to within your code.
 

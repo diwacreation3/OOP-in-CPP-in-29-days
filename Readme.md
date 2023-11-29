@@ -50,4 +50,6 @@ There are some basic concepts That act as the building blocks of OOPs i.e
 - [Exception-handling](/Day-25-Exception-handling/readme.md)
 - [Templates](/Day-26-Templates/readme.md)
 - [STL](/Day-27-STL/readme.md)
+- [Namespace](/Day-28-NameSpace/Readme.md)
+- [File-handling](/Day-29-Files-and-Streams/readme.md)
 

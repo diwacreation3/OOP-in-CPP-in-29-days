@@ -6,6 +6,8 @@
 /* fstream header file for ifstream, ofstream, 
 fstream classes */
 #include <fstream>
+#include <istream>
+#include <string>
 
 using namespace std;
 

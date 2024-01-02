@@ -166,5 +166,12 @@ int main()
 
 ```
 
+Below is the implementation by using fstream class
+
+```c++
+
+
+```
+
 
 

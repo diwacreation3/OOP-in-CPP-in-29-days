@@ -53,3 +53,7 @@ There are some basic concepts That act as the building blocks of OOPs i.e
 - [Namespace](/Day-28-NameSpace/Readme.md)
 - [File-handling](/Day-29-Files-and-Streams/readme.md)
 
+> Note: you can learn further exploring libraries like OpenGl, raylib, sfml to build some good stuff 🍃
+
+Keep learning 🌸
+

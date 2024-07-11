@@ -1,8 +1,8 @@
 # OOP in C++ 30 days challange 👀
-> I am challanging myself to learn all the oop concepts in C++ within 29 days.
+> I am challenging myself to learn all the OOP concepts in C++ within 29 days.
 
 ## Let's start with introduction 📝
-Object-oriented programming- As the name suggests uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, data hiding, polymorphismm, etc. in programming. The main aim of OOp is to bind together the data and the functions that operate on them so that no other part of the code can access this data expect that function.
+Object-oriented programming- As the name suggests uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, data hiding, polymorphism, etc. in programming. The main aim of OOp is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
 
 There are some basic concepts That act as the building blocks of OOPs i.e
 
@@ -22,9 +22,9 @@ There are some basic concepts That act as the building blocks of OOPs i.e
 
 ![oop Concepts!](/images/oop-concept.png)
 
-> Note: Dedicated code example file is availabe to test(run) on local machine. 
+> Note: A dedicated code example file is available to test(run) on the local machine. 
 ### Topics
-- [Class and Objects](/Day-1-Class-Objects/Readme.md)
+- [Class and Objects](/Day-1-Class-Objects-intro/Readme.md)
 - [Access-modifiers](/Day-2-Access-modifiers/Readme.md)
 - [Friend-class-and-function](/Day-3-Friend-class-and-function/readme.md)
 - [Constructors](/Day-4-Constructors/Readme.md)

@@ -5,7 +5,7 @@ enum roll_no {
     sneha = 10,
     anish = 11,
     diwakar = 12,
-    shreesma = 13,
+    Anisha = 13,
     prasamasa = 9,
     ashish = 23,
     bishal = 1,

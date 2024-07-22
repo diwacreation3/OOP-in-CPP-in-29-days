@@ -94,11 +94,11 @@ class person {
 };
 int main()
 {
-    person p("anish", 19);
+    person p("anisha", 19);
     cout << "name: " << p.getName() << endl;
     cout << "Age: " << p.getAge() << endl;
 
-    p.setName("sneha");
+    p.setName("ashu");
     p.setAge(22);
     cout << "Name:" << p.getName() << endl;
     cout << "Age: " << p.getAge() << endl;
@@ -109,8 +109,8 @@ int main()
 
 ```
 Output
-name: anish
+name: anisha
 Age: 19    
-Name:sneha
+Name:ashu
 Age: 22  
 

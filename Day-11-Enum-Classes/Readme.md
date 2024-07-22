@@ -16,7 +16,9 @@ enum roll_no {
     sneha = 10,
     anish = 11,
     diwakar = 12,
-    shreesma = 13,
+    Asmita = 13,
+    ashu = 16,
+    anisha = 19,
     prasamasa = 9,
     ashish = 23,
     bishal = 1,
@@ -41,7 +43,9 @@ enum roll_no {
     sneha = 10,
     anish = 11,
     diwakar = 12,
-    shreesma = 13,
+    Asmita = 13,
+    ashu = 16,
+    anisha = 19,
     prasamasa = 9,
     ashish = 23,
     bishal = 1,
@@ -50,7 +54,7 @@ enum roll_no {
 int main()
 {
     enum roll_no obj;
-    obj = anish;
+    obj = anisha;
     cout << "the roll no of variable = " << obj;
     
 }
